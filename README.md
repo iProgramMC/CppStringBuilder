@@ -1,6 +1,8 @@
 # CppStringBuilder
 A poor StringBuilder (C#)  clone for C++. Includes a testing playground (see Main.cpp and FunnyStrings.hpp)
 
+**NOTE**: This has no performance gain compared to standard library tools, if you'd like to optimize further (good luck), then submit a PR!
+
 ## Implementation
 
 ### `StringBuilder (constructor)`
